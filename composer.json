@@ -19,7 +19,7 @@
         "zendframework/zend-http": ">=2.0"
     },
     "autoload": {
-        "psr-4": { "Eko\\FeedBundle": "" }
+        "psr-4": { "Eko\\FeedBundle\\": "" }
     },
     "extra": {
         "branch-alias": {
